@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jaycee90
+- 👋 Hi, I’m Jaycee
 - 👀 I’m interested in writting codes.
 - 🌱 I’m currently learning how to code.
 - 💞️ I’m looking to collaborate on programming issues.
